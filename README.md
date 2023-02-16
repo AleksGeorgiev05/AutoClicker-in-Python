@@ -1,3 +1,5 @@
 # AutoClicker-in-Python
 
-Library pynput:pip install pynput
+Library pynput:
+
+pip install pynput
